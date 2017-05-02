@@ -4,9 +4,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
 Ce depot pour le developpement d'une application de gestion de stock et vente d'un quincaillerie
-* Version
+
 Version 1.0
 
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
